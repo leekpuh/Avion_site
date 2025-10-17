@@ -1,0 +1,45 @@
+@media all and (max-width: 1920px) {
+    section {
+        margin: 5vh 15vw 0 15vw;
+    }
+}
+
+@media all and (max-width: 1024px) {
+    .banner-box {
+        height: fit-content;
+        margin: 0;
+    }
+
+    #jc-email {
+        width: 230px;
+    }
+
+    #email {
+        width: 230px;
+    }
+
+    .info-wrapper {
+        margin: 5vh 10vw 5vh 10vw;
+    }
+}
+
+@media all and (max-width: 1650px) {
+    .img-auto {
+        width: 100%;
+    }
+    #email-wrapper {
+        justify-items: end;
+        padding: 5vh 5vw 5vh 5vh;
+    }
+}
+
+@media all and (max-width: 650px) {
+    .burger-menu-box {
+        width: 45vw;
+    }
+
+    .burger-menu-box li {
+        padding: 7% 15%;
+        
+    }
+}

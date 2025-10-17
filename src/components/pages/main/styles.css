@@ -1,0 +1,117 @@
+section {
+    margin: 5vh 20vw 0 20vw;
+}
+
+/* Main banner */
+
+.banner-box {
+    background-color: rgba(42, 37, 75, 1);
+    height: fit-content;
+}
+
+.BannerImg {
+    max-width: 50%;
+}
+
+.banner-text {
+    min-width: 50%;
+    padding: 5%;
+}
+
+.banner-text p {
+    color: white;
+}
+
+.btn {
+    display: block;
+    width: fit-content;
+    padding: 15px 25px;
+    align-content: center;
+    text-align: center;
+    background-color: rgba(249, 249, 249, 0.15);
+    color: white;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+/* Brand Benefit section */
+
+.benefit-item {
+    width: 305px;
+}
+.benefit-item {
+    margin: 20px 0;
+}
+.benefit-box p:nth-child(1) {
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+/* New ceramics section */
+
+.new-ceramics-box .btn,
+.popular-products-box .btn,
+.info-box .btn {
+    background-color: rgba(249, 249, 249, 1);
+    color: rgba(42, 37, 75, 1);
+    width: fit-content;
+}
+
+.product-img {
+    width: 100%;
+}
+
+/* Join club section */
+
+.join-club-box {
+    text-align: center;
+    margin: 5vh 0 0 0;
+    background-color: rgb(247, 247, 247);
+    padding: 5vh 0 5vh 0;
+}
+
+.join-club-box p {
+    padding: 0 10vw;
+}
+
+/* Email */
+
+#jc-email {
+    background-color: rgba(185, 185, 185, 0.15);
+    border: 0;
+    width: 350px;
+    height: 35px;
+    outline: 0;
+    color: white;
+}
+
+.jc-submit {
+    border: 0;
+    width: 100px;
+    height: 35px;
+    background-color: rgba(42, 37, 75, 1);
+    color: white;
+}
+
+#jc-email::placeholder {
+    color: rgba(42, 37, 75, 1);
+    padding-left: 5%;
+}
+
+.jc-wrapper {
+    margin-top: 100px;
+}
+
+/* Info section */
+
+.info-box {
+    margin: 0;
+}
+
+.info-wrapper {
+    margin: 5vh 0 5vh 20vw;
+}
+
+.info-box .btn {
+    width: 30%;
+}

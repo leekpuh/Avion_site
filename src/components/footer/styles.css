@@ -1,0 +1,87 @@
+footer {
+    background-color: rgba(42, 37, 75, 1);
+}
+
+.footer-menu {
+    display: flex;
+}
+
+/* Links */
+
+.footer-links {
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 0 0 20vw;
+
+}
+
+.footer-links ul {
+    padding: 0 50px 50px 0;
+    margin: 0;
+}
+
+.footer-links li  {
+    list-style: none;
+    
+}
+.footer-links a {
+    color: white;
+    font-size: 14px;
+}
+
+.footer-links li:nth-child(1) a{
+    font-size: 18px
+}
+
+.footer-links a:hover {
+    color: rgb(187, 187, 201);
+}
+
+.footer-links li + li {
+    margin-top: 15px;
+}
+
+/* Email */
+
+#email-wrapper {
+    justify-items: end;
+    padding: 70px 20vw 5vh 0;
+}
+
+#email{
+    background-color: rgba(255, 255, 255, 0.15);
+    border: 0;
+    width: 350px;
+    height: 35px;
+    outline: 0;
+    color: white;
+}
+
+.submit {
+    border: 0;
+    width: 100px;
+    height: 35px;
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(42, 37, 75, 1);
+}
+
+.input-email {
+    margin-top: 15px;
+}
+
+.email-box label {
+    color: white;
+}
+
+#email::placeholder {
+    color: white;
+    padding-left: 5%;
+}
+
+/* Copyright */
+
+.copyright {
+    padding: 10px 30px;
+    border-top: 1px solid rgba(78, 77, 147, 1);
+    color: white;
+}

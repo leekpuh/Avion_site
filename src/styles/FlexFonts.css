@@ -1,0 +1,41 @@
+/* Flex */
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-center {
+    justify-self: center;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+/* Fonts */
+
+.text-big {
+    font-size: clamp(1.25rem, 2vw, 2rem);
+}
+
+.text-middle {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+}
+
+.text-small {
+    font-size: clamp(0.8rem, 2vw, 1rem);
+}
+
+.semi-bold {
+    font-weight: 400;
+}

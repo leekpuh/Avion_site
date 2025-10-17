@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Whale Fin Sansevieria",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/screenshot-2024-12-19-at-12-15-56-pm-676454e252de5.png?crop=1xw:0.9914712153518124xh;center,top&resize=980:*",
+        "price": "10",
+        "color": "Green",
+        "type": "Succulentus",
+        "arrivalDate": "2025-01-01"
+    },
+    {
+        "id": 2,
+        "name": "Anthurium Veitchii",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/screenshot-2024-12-19-at-12-15-46-pm-676454e25376c.png?crop=1.00xw:0.832xh;0,0.0707xh&resize=980:*",
+        "price": "42",
+        "color": "Green",
+        "type": "Foliage Plants",
+        "arrivalDate": "2025-02-01"
+    },
+    {
+        "id": 3,
+        "name": "Dieffenbachia",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/screenshot-2024-12-19-at-12-15-29-pm-676454e28e064.png?crop=0.9811715481171548xw:1xh;center,top&resize=980:*",
+        "price": "23",
+        "color": "Green",
+        "type": "Foliage Plants",
+        "arrivalDate": "2025-01-05"
+    },
+    {
+        "id": 4,
+        "name": "Alocasia Tiny Dancer",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/the-sill-alocasia-tiny-dancer-medium-grant-cream-variant-67645543c9f48.jpeg?crop=1.00xw:0.774xh;0,0.0553xh&resize=980:*",
+        "price": "16",
+        "color": "Green",
+        "type": "Foliage Plants",
+        "arrivalDate": "2024-12-01"
+    },
+    {
+        "id": 5,
+        "name": "Geogenanthus",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/screenshot-2024-12-19-at-12-13-07-pm-6764542874a1d.png?crop=1xw:0.9980506822612085xh;center,top&resize=980:*",
+        "price": "24",
+        "color": "Green",
+        "type": "Foliage Plants",
+        "arrivalDate": "2025-01-06"
+    },
+    {
+        "id": 6,
+        "name": "Pink Polka Dot Plant",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/red-hypoestes-phyllostachya-plant-royalty-free-image-1731342563.jpg?crop=0.57798xw:1xh;center,top&resize=980:*",
+        "price": "32",
+        "color": "Red",
+        "type": "Foliage Plants",
+        "arrivalDate": "2025-01-18"
+    },
+    {
+        "id": 7,
+        "name": "Alocasia Melo",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/jewel-orchid-alocasia-melo-rugosa-maharani-royalty-free-image-1731342531.jpg?crop=0.447xw:1.00xh;0.265xw,0&resize=980:*",
+        "price": "36",
+        "color": "Green",
+        "type": "Foliage Plants",
+        "arrivalDate": "2025-02-21"
+    },
+    {
+        "id": 8,
+        "name": "Norfolk Pine",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/screenshot-2024-11-11-at-11-30-13-am-673231180ac73.png?crop=0.8541254125412541xw:1xh;center,top&resize=980:*",
+        "price": "62",
+        "color": "Green",
+        "type": "Pines",
+        "arrivalDate": "2024-12-05"
+    },
+    {
+        "id": 9,
+        "name": "Calthea White Fusion",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/exotic-calathea-white-fusion-prayer-plant-royalty-free-image-1731342497.jpg?crop=0.44444xw:1xh;center,top&resize=980:*",
+        "price": "30",
+        "color": "White",
+        "type": "Foliage Plants",
+        "arrivalDate": "2025-02-03"
+    },
+    {
+        "id": 10,
+        "name": "Bay Laurel Tree",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/bush-with-leaves-and-flowers-of-the-noble-laurel-in-royalty-free-image-1731342453.jpg?crop=0.495xw:1.00xh;0.388xw,0&resize=980:*",
+        "price": "26",
+        "color": "Green",
+        "type": "Foliage Plants",
+        "arrivalDate": "2025-02-20"
+    },
+    {
+        "id": 11,
+        "name": "Wintergreen Berries",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/pot-of-american-wintergreen-scheinbeere-royalty-free-image-1731342413.jpg?crop=1xw:0.99627xh;center,top&resize=980:*",
+        "price": "12",
+        "color": "Green",
+        "type": "Flowering Plants",
+        "arrivalDate": "2025-01-30"
+    },
+    {
+        "id": 12,
+        "name": "Christmas Cactus",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/christmas-cactus-in-bloom-royalty-free-image-1731342279.jpg?crop=0.447xw:1.00xh;0.199xw,0&resize=980:*",
+        "price": "27",
+        "color": "Green",
+        "type": "Flowering Plants",
+        "arrivalDate": "2025-03-09"
+    },
+    {
+        "id": 13,
+        "name": "Moonshine Snake Plant",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/silver-queen-sanseviera-plant-damage-in-winter-by-royalty-free-image-1731342327.jpg?crop=0.447xw:1.00xh;0.259xw,0&resize=980:*",
+        "price": "42",
+        "color": "Green",
+        "type": "Succulentus",
+        "arrivalDate": "2025-03-05"
+    },
+    {
+        "id": 14,
+        "name": "Purple Passion Plant",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/indoor-plant-gynura-with-violet-laves-royalty-free-image-1731342376.jpg?crop=0.44444xw:1xh;center,top&resize=980:*",
+        "price": "31",
+        "color": "Purple",
+        "type": "Foliage Plants",
+        "arrivalDate": "2025-02-16"
+    },
+    {
+        "id": 15,
+        "name": "Red Chinese Evergreen",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/pink-aglaonema-in-a-plant-pot-royalty-free-image-1731342233.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "price": "29",
+        "color": "Red",
+        "type": "Foliage Plants",
+        "arrivalDate": "2025-01-14"
+    },
+    {
+        "id": 16,
+        "name": "Bird's Nest Fern",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/houseplant-asplenium-nidus-in-sack-pot-royalty-free-image-1727982767.jpg?crop=0.376xw:1.00xh;0.196xw,0&resize=980:*",
+        "price": "24",
+        "color": "Green",
+        "type": "Foliage Plants",
+        "arrivalDate": "2025-01-01"
+    },
+    {
+        "id": 17,
+        "name": "Zebra Plant",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/close-up-haworthia-fasciata-at-home-royalty-free-image-1727982837.jpg?crop=0.44504xw:1xh;center,top&resize=980:*",
+        "price": "15",
+        "color": "White",
+        "type": "Succulentus",
+        "arrivalDate": "2025-01-01"
+    },
+    {
+        "id": 18,
+        "name": "Majesty Palm",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/palm-tree-in-pink-pot-royalty-free-image-1727982899.jpg?crop=0.88933xw:1xh;center,top&resize=980:*",
+        "price": "51",
+        "color": "Green",
+        "type": "Palms",
+        "arrivalDate": "2025-01-01"
+    },
+    {
+        "id": 19,
+        "name": "Prayer Plant Beauty Kim",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/maranta-leuconeura-kerchoveana-royalty-free-image-1727982958.jpg?crop=0.44444xw:1xh;center,top&resize=980:*",
+        "price": "43",
+        "color": "Green",
+        "type": "Foliage Plants",
+        "arrivalDate": "2025-01-01"
+    },
+    {
+        "id": 20,
+        "name": "Monstera Swiss Cheese Plant",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/monstera-deliciosa-palm-house-plant-royalty-free-image-1727983004.jpg?crop=0.99988xw:1xh;center,top&resize=980:*",
+        "price": "65",
+        "color": "Green",
+        "type": "Foliage Plants",
+        "arrivalDate": "2025-03-10"
+    }
+]
